@@ -1,0 +1,35 @@
+{
+    "id":"kanelass",
+    "theme_color" : "#FFD1DC",
+    "background_color" : "#FFEEEE",    
+    "display" : "standalone",
+    "scope" : "/",
+    "start_url" : "./pwa/index.html",
+    "name" : "Tienda Kanelass Fashion cop",
+    "short_name" : "KanelassCOL",
+    "description" : "Tienda de venta de accesorios, ropa y zapatos para Colombia",
+    "lang":"es",
+    "orientation" : "portrait",
+    "icons":[
+        {
+            "src":"./images/kanelas.jpg",
+            "sizes":"1080x1080",
+            "type":"image/jpg"
+        },
+        {
+            "src":"./images/Kanelass512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        },
+        {
+            "src":"./images/Kanelass256.png",
+            "sizes":"256x256",
+            "type":"image/png"
+        },
+        {
+            "src":"./images/Kanelass128.png",
+            "sizes":"128x128",
+            "type":"image/png"
+        }
+    ]
+}
